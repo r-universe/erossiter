@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "catSurv"]
+	path = catSurv
+	url = https://github.com/erossiter/catsurv
+	shallow = true
+	registered = true
